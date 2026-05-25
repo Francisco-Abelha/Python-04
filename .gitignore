@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#text files
+ancient_fragment.txt
+
+#.md file
+p4.md
